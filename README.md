@@ -6,10 +6,10 @@ This project analyzes UK road accident data using Power BI.
 ![Dashboard](images/dashboard_preview.png)
 
 ## Dataset
-- data/UK_Road_Accident.xlsx
+- data UK_Road_Accident.xlsx
 
 ## Dashboard File
-- dashboard/UK_Accident_Dashboard.pbix
+- UK Road Accident Dashboard.pbix
 
 ## Key Insights
 - 20K+ accidents analyzed
